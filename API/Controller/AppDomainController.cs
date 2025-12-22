@@ -15,7 +15,7 @@ public class AppDomainController: ControllerBase
     
     public AppDomainController(AppDomainService appDomainService)
     {
-        _appDomainService = appDomainService;
+        _appDomainService = appDomainService ;
     }
     
 

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\CodeNew\\MyProject\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\code\\CodeNew\\lab\\MyProject\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\code\\CodeNew\\MyProject\\Application\\Application.csproj",
+      "projectPath": "D:\\code\\CodeNew\\lab\\MyProject\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\truongtn11\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\CodeNew\\MyProject\\Application\\obj\\",
+      "outputPath": "D:\\code\\CodeNew\\lab\\MyProject\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\truongtn11\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\code\\CodeNew\\MyProject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\code\\CodeNew\\MyProject\\Domain\\Domain.csproj"
+            "D:\\code\\CodeNew\\lab\\MyProject\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\code\\CodeNew\\lab\\MyProject\\Domain\\Domain.csproj"
             }
           }
         }

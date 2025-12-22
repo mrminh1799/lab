@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\CodeNew\\MyProject\\Domain\\Domain.csproj": {}
+    "D:\\code\\CodeNew\\lab\\MyProject\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\code\\CodeNew\\MyProject\\Domain\\Domain.csproj": {
+    "D:\\code\\CodeNew\\lab\\MyProject\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\CodeNew\\MyProject\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\code\\CodeNew\\lab\\MyProject\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\code\\CodeNew\\MyProject\\Domain\\Domain.csproj",
+        "projectPath": "D:\\code\\CodeNew\\lab\\MyProject\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\truongtn11\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\CodeNew\\MyProject\\Domain\\obj\\",
+        "outputPath": "D:\\code\\CodeNew\\lab\\MyProject\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\truongtn11\\AppData\\Roaming\\NuGet\\NuGet.Config"

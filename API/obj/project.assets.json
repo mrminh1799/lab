@@ -2642,11 +2642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\CodeNew\\MyProject\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\truongtn11\\Desktop\\lab\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\code\\CodeNew\\MyProject\\API\\API.csproj",
+      "projectPath": "C:\\Users\\truongtn11\\Desktop\\lab\\API\\API.csproj",
       "packagesPath": "C:\\Users\\truongtn11\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\CodeNew\\MyProject\\API\\obj\\",
+      "outputPath": "C:\\Users\\truongtn11\\Desktop\\lab\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\truongtn11\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2661,8 +2661,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\code\\CodeNew\\MyProject\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\code\\CodeNew\\MyProject\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\truongtn11\\Desktop\\lab\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\truongtn11\\Desktop\\lab\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

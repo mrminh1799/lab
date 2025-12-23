@@ -9,3 +9,15 @@ D:\code\CodeNew\MyProject\Domain\obj\Debug\net8.0\Domain.dll
 D:\code\CodeNew\MyProject\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\code\CodeNew\MyProject\Domain\obj\Debug\net8.0\Domain.pdb
 D:\code\CodeNew\MyProject\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\truongtn11\Desktop\lab\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\truongtn11\Desktop\lab\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\truongtn11\Desktop\lab\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\truongtn11\Desktop\lab\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truongtn11\Desktop\lab\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\truongtn11\Desktop\lab\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\truongtn11\Desktop\lab\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\truongtn11\Desktop\lab\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\truongtn11\Desktop\lab\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\truongtn11\Desktop\lab\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\truongtn11\Desktop\lab\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\truongtn11\Desktop\lab\Domain\obj\Debug\net8.0\ref\Domain.dll
